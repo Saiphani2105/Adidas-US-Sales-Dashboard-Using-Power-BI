@@ -32,7 +32,7 @@ This Power BI project analyzes retail sales data to uncover trends and insights,
 4. Explore dashboards & insights
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard_sample.png)
+![Image](https://github.com/user-attachments/assets/2f3677a3-2d45-467d-80bd-9f53e66d5d0d)
 
 ---
 ### ⭐ Star this repo if you find it useful!

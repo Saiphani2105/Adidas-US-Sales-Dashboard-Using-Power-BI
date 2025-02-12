@@ -20,11 +20,11 @@ This Power BI project analyzes retail sales data to uncover trends and insights,
 - **DAX & Power Query** (Data Transformation)
 
 ## 📁 Files
-- `Retail_Sales_Dashboard.pbix` - Power BI report
+- `Adida US Sales Report Project.pbix` - Power BI report
 - `sales_data.csv` - Dataset
 - `README.md` - Project documentation
-- `screenshots/` - Dashboard snapshots
 
+  
 ## 🚀 How to Use
 1. Download `Retail_Sales_Dashboard.pbix`
 2. Open in **Power BI Desktop**
